@@ -16,7 +16,7 @@ You'll learn how to ingest documents, store vector embeddings with FAISS, and ef
 1️⃣ **Clone the repository:**    
 
  ```sh
-   git clone <repo_link>
+   git clone https://github.com/DoyinHubX/ollamaRAGFAISS_with_Streamlit.git
  ```
 
 2️⃣ Install dependencies:
@@ -32,6 +32,7 @@ You'll learn how to ingest documents, store vector embeddings with FAISS, and ef
  ```
 
 4️⃣ Upload documents for processing and embedding.
+
 5️⃣ Ask questions – the system retrieves relevant document snippets and generates AI-powered responses.
 
 📖 Read the full guide here: [Insert link]
