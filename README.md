@@ -35,4 +35,4 @@ You'll learn how to ingest documents, store vector embeddings with FAISS, and ef
 
 5️⃣ Ask questions – the system retrieves relevant document snippets and generates AI-powered responses.
 
-📖 Read the full guide here: [Insert link]
+📖 Read the full guide here: [https://www.linkedin.com/pulse/building-local-rag-systems-hands-on-guide-faiss-doyin-elugbadebo-rxwhf/?trackingId=9U6fqIXiS7eQDMPBaxTQng%3D%3D]
